@@ -1,16 +1,26 @@
-## Hi there 👋
 
-<!--
-**ctx-0/ctx-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![alt text](ctx-main.gif)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+/home · [/gif](https://gif-4dn.pages.dev/) · [/dither](https://ctx-0.github.io/dither) · [/frames](https://ctx-0.github.io/frames)  · [/gyroscope](https://ctx-0.github.io/gyroscope) 
+
+*checkout*  
+[localimgsearch :  ](https://github.com/ctx-0/localimgsearch)  local image embeddings, search, de-duplication  
+[localimgstudio : ](https://github.com/ctx-0/localimgstudio)  local img processing pipeline: background removal + upscaling  
+
+
+
+*in situ*  
+vectorng : multi-modal embeddings engine for batch resumable tasks  
+captiond : image captioning and tagging utility batch processing + daemon
+<!-- gallery.py -->
+
+*misc*  
+[Python Release Managers](https://ctx-0.github.io/python-release-managers/)  
+[Pygments Style Matrix](https://ctx-0.github.io/pygments/)
+<!-- Docker -->
+
+*my*  
+[· dotfiles](https://github.com/ctx-0/dotfiles)  
+[· scripts](https://github.com/ctx-0/scripts)   
