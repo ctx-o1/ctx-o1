@@ -1,6 +1,5 @@
 
 
-![alt text](ctx-main.gif)
 
 ![](./crop-test.gif)
 
@@ -18,7 +17,6 @@ vectorng : multi-modal embeddings engine for batch resumable tasks
 captiond : image captioning and tagging utility batch processing + daemon
 <!-- gallery.py -->
 
-![alt text](<test.gif>)
 
 
 *misc*
