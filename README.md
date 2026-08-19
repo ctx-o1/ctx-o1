@@ -4,9 +4,14 @@
 ![](./crop-test.gif)
 
 
-/home 
 
+/home · [/notes](https://ctx-o1.github.io/notes/)
 
-want to work on something bigger than life,  
-looking for new opportunities
+```diff
++ want to work on something bigger than life  
++ looking for new opportunities
+```
 
+[Visualizing Pixel Shuffle for token compression in VLMs](https://ctx-o1.github.io/pixel-shuffle/)  
+Generating Maze on the surface of a Torus  
+[ボッチ・ザ・ジャイロスコープ！](https://ctx-o1.github.io/gyroscope/)  
